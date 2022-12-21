@@ -1,0 +1,3 @@
+/Users/victor/Desktop/Hammings_code/cmake-build-debug/CMakeFiles/Hammings_code.dir
+/Users/victor/Desktop/Hammings_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/victor/Desktop/Hammings_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
